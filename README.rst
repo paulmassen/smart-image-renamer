@@ -65,6 +65,8 @@ Usage
     Artist      Artist
     Make        Camera Make
     Model       Camera Model
+    Width       Width of the image
+    Height      Height of the image
     Folder      Parent folder of the image file
     File        Current Filename
 
